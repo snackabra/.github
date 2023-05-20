@@ -1,4 +1,6 @@
-## Dear Visitor
+<img src="https://user-images.githubusercontent.com/844289/156240563-cfa8d1ff-fd55-43d7-a867-e9e7c77d183e.svg" width="100">
+
+# Snackabra
 
 These are the open source Snackabra projects.
 
