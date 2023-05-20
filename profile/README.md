@@ -1,10 +1,6 @@
-<img src="https://user-images.githubusercontent.com/844289/156240563-cfa8d1ff-fd55-43d7-a867-e9e7c77d183e.svg" width="100">
-
 # Snackabra
 
-These are the open source Snackabra projects.
-
-For documentation see:
+These are the open source Snackabra projects.  For documentation see:
 
 * https://snackabra.readthedocs.io (latest)
 * https://snackabra.io/ (version 0.4.3)
